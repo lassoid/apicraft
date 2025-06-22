@@ -2,7 +2,7 @@
 
 require_relative "apicraft/version"
 
-module Apicraft
+module APICraft
   class Error < StandardError; end
   # Your code goes here...
 end

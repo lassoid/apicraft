@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-RSpec.describe Apicraft do
+RSpec.describe APICraft do
   it "has a version number" do
-    expect(Apicraft::VERSION).not_to be nil
+    expect(APICraft::VERSION).not_to be nil
   end
 
   it "does something useful" do

@@ -4,7 +4,7 @@ require_relative "lib/apicraft/version"
 
 Gem::Specification.new do |spec|
   spec.name = "apicraft"
-  spec.version = Apicraft::VERSION
+  spec.version = APICraft::VERSION
   spec.authors = ["Kirill Usanov", "LassoID"]
   spec.email = ["kirill@lassoid.ru"]
 
